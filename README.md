@@ -1,12 +1,17 @@
-# curadoria_de_ia
+# **Curadoria de IA**
 ## Análise e comparação de respostas de diferentes IA's, utilizando dados fictícios, com o objetivo de identificar oportunidades e impactos gerados para dois setores de uma empresa.
 
-### Tecnologias usadas: PostgreSQL, Python, Google Sheets e Power BI.
+
+### Tecnologias usadas: PostgreSQL, Python e Google Sheets.
+
 
 ### Estrutura do repositório:
+
+```
 curadoria_de_ia/
 ├── banco_de_dados/
 ├── python/
 └── README.md
+```
 
-Aprendizados:
+## Aprendizados:

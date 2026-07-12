@@ -41,11 +41,11 @@ VALUES ('te ajudo em algo mais?', 'Posso lhe auxiliar com algo mais?', 'Gemini',
 INSERT INTO avaliacoes (id_resposta_utilizada, acuracia, precisao, fidelidade, relevancia)
 VALUES (1, 0.9500, 0.8900, 0.9780, 0.9876);
 
--- verificando se a tabela 'respostas' foi criada corretamente e com liunhas e colunas corretas 
+-- verificando se a tabela 'respostas' foi criada corretamente e com linhas e colunas corretas 
 
 SELECT * FROM respostas;
 
--- verificando se a tabela 'avaliacoes' foi criada corretamente e com liunhas e colunas corretas 
+-- verificando se a tabela 'avaliacoes' foi criada corretamente e com linhas e colunas corretas 
 
 SELECT * FROM avaliacoes;
 
